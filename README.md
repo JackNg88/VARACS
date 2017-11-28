@@ -1,2 +1,2 @@
 # VARACS
-Visualization Analysis of RNAseq,ATACseq,Chipseq and ScRNAseq
+Visualization Analysis of RNA-seq,ATAC-seq,Chip-seq and Single cell RNA-seq.
