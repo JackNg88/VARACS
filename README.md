@@ -59,17 +59,17 @@ cd VARACS
 ### 2. Install dependencies
 
 R packages:
-
+```bash
 install.packages(c("Seurat", "ggplot2", "dplyr", "DESeq2", "Signac"))
-
+```
 Python packages (optional):
-
+```bash
 pip install scanpy pandas matplotlib anndata
-
+```
 ### 3. Run analysis scripts
-
+```bash
 Rscript scripts/scrnaseq_analysis.R
-
+```
 
 ⸻
 
