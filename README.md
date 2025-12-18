@@ -54,6 +54,7 @@ VARACS/
 ```bash
 git clone https://github.com/JackNg88/VARACS.git
 cd VARACS
+```
 
 ### 2. Install dependencies
 
