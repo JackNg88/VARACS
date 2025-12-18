@@ -55,7 +55,7 @@ VARACS/
 git clone https://github.com/JackNg88/VARACS.git
 cd VARACS
 
-2. Install dependencies
+### 2. Install dependencies
 
 R packages:
 
@@ -65,14 +65,14 @@ Python packages (optional):
 
 pip install scanpy pandas matplotlib anndata
 
-3. Run analysis scripts
+### 3. Run analysis scripts
 
 Rscript scripts/scrnaseq_analysis.R
 
 
 ⸻
 
-Applications
+## Applications
 
 VARACS has been applied to:
 	•	Stem cell reprogramming studies
@@ -82,7 +82,7 @@ VARACS has been applied to:
 
 ⸻
 
-License
+## License
 
 This project is licensed under the MIT License.
 
