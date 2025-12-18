@@ -1,5 +1,5 @@
 # VARACS
-Visualization Analysis of RNA-seq, ATAC-seq, Chip-seq and Single cell RNA-seq.
+**V**isualization **A**nalysis of **R**NA-seq, **A**TAC-seq, **C**hip-seq and **S**ingle cell RNA-seq.
 
 **VARACS** is a visualization and analysis framework for high-throughput sequencing data, including  
 **RNA-seq, ATAC-seq, ChIP-seq, and single-cell RNA-seq**.
