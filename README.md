@@ -22,7 +22,7 @@ Supported data types:
 ---
 
 ## Repository Structure
-
+```text
 VARACS/
 ├── README.md                  # Project documentation
 ├── scripts/                   # Analysis and visualization scripts
@@ -35,7 +35,7 @@ VARACS/
 ├── data/                      # Example or processed datasets
 ├── results/                   # Output files
 └── docs/                      # Additional documentation
-
+```
 ---
 
 ## Key Features
